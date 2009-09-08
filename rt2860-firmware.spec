@@ -1,7 +1,7 @@
 %define name rt2860-firmware
 %define rtname RT2860_Firmware
 %define version 11
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: Firmware for the RT2860 chip
 Name: %{name}
