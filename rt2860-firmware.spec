@@ -3,7 +3,7 @@
 Summary:	Firmware for the RT2860 chip
 Name:		rt2860-firmware
 Version:	11
-Release:	3
+Release:	4
 # http://www.ralinktech.com.tw/data/drivers/%{rtname}_V%{version}.zip
 # (Repackaged as tar.bz2 because of unzip warnings that makes build fail)
 Source0:	%{rtname}_V%{version}.tar.bz2
