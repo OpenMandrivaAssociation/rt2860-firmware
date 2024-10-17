@@ -9,7 +9,7 @@ Release:	5
 Source0:	%{rtname}_V%{version}.tar.bz2
 License:	Redistributable, no modification permitted
 Group:		System/Kernel and hardware
-Url:		http://www.ralinktech.com
+Url:		https://www.ralinktech.com
 BuildArch:	noarch
 
 %description
